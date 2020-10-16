@@ -1,0 +1,125 @@
+.logo{
+	width: 250px;
+	height: 60px;
+}
+button:hover{
+	 filter: brightness(80%);
+}
+.img1{
+	width: 570px;
+	margin-top: 20px;
+	margin-left: 10px;
+	float: left;
+}
+.box2{
+	margin-left: 10px;
+	margin-top: 20px;
+	width: 250px;
+	height: 482px;
+	border: 1px solid white; 
+	overflow: hidden;
+}
+.img2{
+	width: 250px;
+	height: 482px;
+	float: left;
+	transition-duration: 0.3s;
+}
+.img2:hover{
+	transform: scale(1.07);
+}
+.box3{
+	margin-left: 10px;
+	margin-top: 20px;
+	width: 287px;
+	height: 147px;
+	border: 1px solid white; 
+	overflow: hidden;
+	float: left;
+}
+.img3{
+	float: left;
+	transition-duration: 0.3s; 
+}
+.img3:hover{
+	transform: scale(1.07);
+}
+.box4{
+	margin-left: 5px;
+	margin-top: 20px;
+	width: 287px;
+	height: 147px;
+	border: 1px solid white; 
+	overflow: hidden;
+	float: left;
+}
+.img4{
+	float: left;
+	transition-duration: 0.3s;
+}
+.img4:hover{
+	transform: scale(1.07);
+}
+.ime{
+	width: 40px;
+	height: 40px;
+	transition-duration: 0.3s;
+}
+.hi:hover{
+	transform: scale(1.07);
+}
+.zz{
+	width: 110px;
+	height: 135px;
+	background: white;
+	float: left;
+	margin-left: 5px;
+	margin-top: 5px;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+.zz img{
+	width: 70px;
+	height: 75px;
+}
+.zz p{
+	color: black;
+	font-size: 12.6px;
+}
+.zz:hover p{
+	text-decoration: none;
+	color:#ff5622;
+}
+.zz:hover >a{
+	text-decoration: none;
+}
+.h1 img{
+	width: 100%;
+	height: 100%;
+}
+.h1 img:hover{
+	 filter: brightness(80%);
+}
+.h2:hover >a{
+	text-decoration: none;
+}
+.h2:hover p{
+	color: #ff5622;
+}
+.h2 i{
+	color: #d7102b;
+	font-size: 10px;
+	width: 13px;
+	float: right;
+}
+.bx2 img{
+	width: 90%;
+	height: 90%;
+	transition-duration: 0.3s;
+}
+.bx2:hover img{
+	transform: scale(1.07);
+}
+.ee:hover img{
+	filter: brightness(80%);
+}

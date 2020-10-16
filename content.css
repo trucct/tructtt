@@ -1,0 +1,349 @@
+.content1 .col{
+	height: 730px;
+	background:white;
+}
+.content1 .col-10{
+	height: 500px;
+	background: white;
+	margin : 0 auto;
+}
+.col-10 .col{
+	height: 100px;
+	background: white;
+	padding-top: 35px;
+}
+h3{
+	text-align: center;
+	color: #ff5622;
+}
+.content1 a{
+	color: black;
+}
+.box3:hover >a{
+	color: #ff5622;
+	text-decoration: none;
+}
+.content1 .box1{
+	width: 350px;
+	height: 170px;
+	background: white;
+	margin-left: 50px;
+	float: left;
+}
+.content1 .box1 .hi{
+	width: 100%;
+	height: 100%;
+}
+.content1 .box2{
+	width: 35%;
+	height: 85%;
+	border: 1px solid white; 
+	overflow: hidden;
+	float: left;
+}
+.content1 .box3{
+	width: 59.2%;
+	height: 90%;
+	background: white;
+	float: right;
+}
+span{
+	text-decoration: line-through;
+	color: #cdcdcd;
+	font-size: 13px;
+}
+.b{
+	text-decoration: none;
+	font-size: 15px;
+	color: #ff5622;
+	font-weight: bold;
+}
+.content1 button{
+	width: 100px;
+	height: 30px;
+	background:#ff5622; 
+	font-size: 13px;
+	float: left;
+	border-radius: 7%;
+}
+.content1 .sale{
+	width: 35px;
+	height: 35px;
+	background: #ffbb00;
+	position: relative;
+	top: -140px;
+	left: 20px;
+	border-radius: 50%;
+}
+.content2 .col{
+	height: 730px;
+	background: #eff0f3;
+}
+.content1 i{
+	color: #d7102b;
+	font-size: 10px;
+	width: 5px;
+}
+.content2 .boxa1{
+	width: 90%;
+	height: 90%;
+	/*background: yellow;*/
+	margin: 0 auto;
+	padding-top: 20px;
+}
+.ttt{
+	width: 100%;
+	height: 50px;
+/*	background: red;*/
+}
+.tttt{
+	width: 100%;
+	height: 630px;
+	/*background: red;*/
+	margin-top: 20px;	
+}
+.t1{
+	width: 20%;
+	height: 100%;
+	background: #e8b35f;
+	float: left;
+	padding-left: 40px;
+	padding-top: 10px;
+	font-size: 18px;
+	font-weight: bold;
+}
+.t1 a{
+	color: white;
+}
+.t1:hover >a{
+	color: white;
+	text-decoration: none;
+}
+.t2{
+	width: 78%;
+	height: 100%;
+	background: white;
+	float: left;
+	margin-left: 2%;
+	border-top: 2px solid #e8b35f; 
+}
+.t2 p{
+	color: #e8b35f;
+	font-size: 15px;
+	float: right;
+	margin-right: 10px;
+	font-weight: bold;
+	padding-top: 10px;
+}
+.t2 span{
+	color: gray;
+	text-decoration: none;
+	font-size: 15px;
+	float: right;
+
+	margin-left: 10px;
+	font-weight: bold;
+}
+.t3{
+	width: 20%;
+	height: 100%;
+	/*background: blue;*/
+	float: left;
+}
+.t4{
+	width: 78%;
+	height: 100%;
+	margin-left: 2%;
+	/*background: blue;*/
+	float: left;
+}
+.z1{
+	width: 100%;
+	height: 45%;
+	background: white;
+}
+.z2{
+	width: 100%;
+	height: 53%;
+	margin-top: 5%;
+	/*background: purple;*/
+}
+.a1{
+	width: 100%;
+	height: 48%;
+	/*background: green;*/
+}
+.a2{
+	width: 100%;
+	height: 48%;
+	/*background: green;*/
+	margin-top: 2.5%;
+}
+.q1{
+	width: 24%;
+	height: 100%;
+	background: white;
+	margin-left: 8px;
+	float: left;
+}
+.h1{
+	width: 100%;
+	height: 65%;
+	/*background: red;*/
+}
+.h1 .sale{
+	width: 35px;
+	height: 35px;
+	background: #ffbb00;
+	position: relative;
+	top: -190px;
+	left: -180px;
+	border-radius: 50%;
+	font-size: 12px;
+}
+.h2{
+	width: 100%;
+	height: 32%;
+	background: white;
+}
+.h2 p{
+	font-size: 15px;
+	color: black;
+}
+.boxx{
+	width: 1000px;
+	height: 60px;
+}
+.boxx1{
+	width: 1175px;
+	height: 350px;
+	background: white;
+	margin-left: 166px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+.bx1{
+	width: 16%;
+	height: 85%;
+	background: yellow;
+	margin-left: 5px;
+	float: left;
+}
+.bx2{
+	width: 100%;
+	height: 70%;
+	background: white;
+}
+.bx3{
+	width: 100%;
+	height: 30%;
+	background: white;
+}
+.bx3 p{
+	color: black;
+	font-size: 14px;
+}
+.bx3:hover p{
+	color: #ff5900;
+}
+.bx3:hover >a{
+	text-decoration: none;
+}
+.bx3 button{
+	width: 35px;
+	height: 35px;
+	background: #ffbb00;
+	position: relative;
+	top: -240px;
+	left: -160px;
+	border-radius: 50%;
+	font-size: 12px;
+}
+.e{
+	width: 78.5%;
+	height: 70%;
+	/*background: red;*/
+	margin-left: 170px;
+}
+.e1{
+	width: 24%;
+	height: 90%;
+	/*background: violet;*/
+	margin-left: 10px;
+	float: left;
+}
+.ee{
+	width: 100%;
+	height: 65%;
+	background: white;
+	margin-bottom: 20px;
+}
+.ee img{
+	width: 100%;
+	height: 100%;
+}
+.eee:hover >a{
+	text-decoration: none;
+}
+.eee:hover p{
+	color: #ff5900;
+}
+.eee p{
+	color: black;
+}
+.vuong{
+	width: 1150px;
+	height: 100%;
+	/*background: red;*/
+	margin-left: 185px;
+}
+.vuong1{
+	width: 32.3%;
+	height: 100%;
+	background: white;
+	margin-left: 10px;
+	float: left;
+}
+.vuong2{
+	width: 30%;
+	height: 100%;
+	/*background: pink;*/
+	float: left;
+	padding-top: 10px;
+}
+.vuong3{
+	width: 70%;
+	height: 100%;
+	/*background: blue;*/
+	float: left;
+	padding-top: 10px;
+}
+.q0{
+	width: 800px;
+	height: 100%;
+	/*background: yellow;*/
+	float: left;
+}
+.qq{
+	width: 600px;
+	height: 100%;
+/*	background: brown;*/
+	float: left;
+}
+.content4 input{
+	width: 350px;
+	height: 40px;
+	position: relative;
+	top: 50px;
+	border-radius: 5px;
+	border: none;
+}
+.content4 button{
+	width: 100px;
+	height: 40px;
+	border-radius: 5px;
+	position: relative;
+	top: 50px;
+	left: -130px;
+	background: #ffc800;
+}

@@ -1,0 +1,69 @@
+.col{
+	background: #ff5622; /*Màu cam*/
+	height: 220px;
+}
+.col .col-12{
+	background: #ff5622;
+	width: 1000px;
+	height: 220px;
+	margin: 0 auto;
+}
+.col-12 .col{
+	background: #ff5622;
+	width: 100%;
+	height: 60px;
+	padding-top: 8px;
+}
+p{
+	font-size: 13px;
+	color: white;
+}
+.col .col-2{
+	background: #ff5622;
+	float: right;
+	margin-left: 5px;
+	width: 145px;
+	height: 50px;
+	color: white;
+	font-size: 13.5px;
+}
+.col-6 {
+	color: white;
+	font-size: 13px;
+}
+.col .col-3{
+	background: #ff5622;
+	float: left;
+}
+.col .col-5{
+	border-radius: 2px;
+	height: 50px;
+	padding-top: 5px;
+}
+.all{
+	width: 60px;
+	height: 40px;
+	border: none;
+	border-radius: 3px;
+	font-size: 14px;
+}
+.al{
+	width: 300px;
+	height: 40px;
+	border: none;
+	border-radius: 3px;
+	font-size: 14px;
+}
+button{
+	width: 55px;
+	height: 40px;
+	float: right;
+	border: none;
+	background: #ff5622;
+	color: white;
+}
+.col .col-1{
+	font-size: 14px;
+	color: white;
+	font-weight: bold;
+}

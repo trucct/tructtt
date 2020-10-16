@@ -1,0 +1,128 @@
+.menu .col{
+	height: 500px;
+	background: #eff0f3;
+}
+.menu .col-3{
+	background: white;
+}
+ul{
+	background: white;
+	list-style-type: none;
+}
+ul li{
+	height: 43px;
+	position: relative;
+}
+li a{
+	color: black;
+	display: block;
+}
+li:hover{
+	background: #ff5622;
+}
+li:hover >a{
+	color: white;
+	text-decoration: none;
+}
+.sub-menu{
+	display: none;
+   	position: absolute;	
+}
+		/*sub-menu*/
+li>.sub-menu{
+	top: 0;
+   	left: 180px;
+   	width: 200px;
+}
+li:hover .sub-menu {
+ display: block;
+}
+.sub-menu li:hover {
+	 background: #eff0f3;
+}
+.sub-menu li:hover >a{
+		 color: #ff5622;
+}
+		/*sub-menu1*/
+.sub-menu1{
+	display: none;
+   	position: absolute;	
+}
+
+li>.sub-menu1{
+	top: 0;
+   	left: 380px;
+   	width: 200px;
+}
+li:hover .sub-menu1 {
+ display: block;
+}
+.sub-menu1 li:hover {
+	 background: #eff0f3;
+}
+.sub-menu1 li:hover >a{
+		 color: #ff5622;
+}
+		/*sub-menu2*/
+.sub-menu2{
+	display: none;
+   	position: absolute;	
+}
+
+li>.sub-menu2{
+	top: 0;
+   	left: 580px;
+   	width: 200px;
+}
+li:hover .sub-menu2 {
+ display: block;
+}
+.sub-menu2 li:hover {
+	 background: #eff0f3;
+}
+.sub-menu2 li:hover >a{
+		 color: #ff5622;
+}
+		/*sub-menu3*/
+.sub-menu3{
+	display: none;
+   	position: absolute;	
+}
+
+li>.sub-menu3{
+	top: 0;
+   	left: 780px;
+   	width: 200px;
+}
+li:hover .sub-menu3 {
+ display: block;
+}
+.sub-menu3 li:hover {
+	 background: #eff0f3;
+}
+.sub-menu3 li:hover >a{
+		 color: #ff5622;
+}
+		/*sub-menu4*/
+.sub-menu4{
+	display: none;
+   	position: absolute;	
+}
+
+li>.sub-menu4{
+	top: 0;
+   	left: 980px;
+   	width: 200px;
+}
+li:hover .sub-menu4 {
+ display: block;
+}
+.sub-menu4 li:hover {
+	 background: #eff0f3;
+}
+.sub-menu4 li:hover >a{
+		 color: #ff5622;
+}
+/*.menu .col-6{
+	background: pink;
+}*/

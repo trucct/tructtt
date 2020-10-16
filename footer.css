@@ -1,0 +1,90 @@
+.ft{
+	width: 560px;
+	height: 65%;
+	background: white;
+	margin-left: 180px;
+	float: left;
+}
+.ftt{
+	width: 560px;
+	height: 65%;
+	/*background: green;*/
+	margin-left: 10px;
+	float: left;
+}
+.ft1{
+	width: 48%;
+	height: 100%;
+/*	background: pink;*/
+	margin-left: 8px;
+	float: left;
+	padding-top: 18px;
+}
+.ft2{
+	width: 48%;
+	height: 135%;
+/*	background: pink;*/
+	margin-left: 8px;
+	float: left;
+}
+.test{
+	color: black;
+	font-size: 15px;
+	font-weight: bold;
+}
+.ft1 p{
+	color: black;
+	font-size: 15px;
+}
+.ft1:hover >a{
+	text-decoration: none;
+}
+.ft1:hover p{
+	color: #ff5900;
+}
+.g1{
+	width: 100%;
+	height: 110px;
+	/*background: yellow;*/
+	float: left;
+	margin-top: 15px;
+}
+.g11{
+	width: 70px;
+	height: 70px;
+	/*background: red;*/
+	float: left;
+}
+.g12{
+	width: 195px;
+	height: 70px;
+	/*background: red;*/
+	float: left;
+}
+.nee{
+	width: 35px;
+	height: 35px;
+	border-radius: 100%;
+	float: left;
+	margin-left: 5px;
+}
+.f{
+	color: black;
+	font-size: 14px;
+	font-weight: bold;
+}
+.ff{
+	color: black;
+	font-size: 14px;
+}
+.k{
+	width: 100%;
+	height: 150px;
+	/*background: red;*/
+	float: left;
+}
+.kk{
+	width: 100%;
+	height: 100px;
+	/*background: gray;*/
+}
